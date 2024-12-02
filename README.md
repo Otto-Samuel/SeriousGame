@@ -12,12 +12,12 @@
 <img src="https://github.com/Otto-Samuel/SeriousGame/blob/main/imgs/Grava%C3%A7%C3%A3o-de-Tela-2024-12-02-091021.gif"/>
 
 ### + Interface/Controles 
-    Liste os controles (teclas ou ações touch) e como será a interface de usuário dos jogadores 
-    Teclado e Mouse:
-    Movimento do personagem: W/A/S/D ou setas direcionais.
-    Interação com objetos: Tecla "E"
-    Ativação de alavancas: Tecla "E" ao se aproximar
-    Abrir informações criptográficas: Tecla "I"
+  Liste os controles (teclas ou ações touch) e como será a interface de usuário dos jogadores 
+  Teclado e Mouse:
+  Movimento do personagem: W/A/S/D ou setas direcionais.
+  Interação com objetos: Tecla "E"
+  Ativação de alavancas: Tecla "E" ao se aproximar
+  Abrir informações criptográficas: Tecla "I"
     
 
 
