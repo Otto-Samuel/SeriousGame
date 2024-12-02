@@ -1,2 +1,3 @@
 # SeriousGame
-![image](https://github.com/user-attachments/assets/e9f9143e-8c96-4455-a9ba-8658960f7d48)
+![image](https://github.com/user-attachments/assets/c57ac76b-0036-429f-9c80-7fa80c142d63)
+
