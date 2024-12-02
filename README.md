@@ -6,6 +6,7 @@
 <p>
   Uma misteriosa identidade digital tomou conta de um complexo de computadores, infectando e hackeando seus sistemas. Você, um especialista em segurança cibernética, deve superar esse desafio utilizando suas habilidades de criptografia e descriptografia para resolver enigmas e restaurar os sistemas comprometidos.
 </p>
+<br>
 
-
-<img src=""/>
+## _____________________________________________________________________________________________________
+<img src="https://github.com/Otto-Samuel/SeriousGame/blob/main/imgs/Grava%C3%A7%C3%A3o-de-Tela-2024-12-02-091021.gif"/>
