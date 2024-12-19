@@ -1,6 +1,7 @@
 
 
 
+
 # Decryptor: A Última Resistência [![My Skills](https://skillicons.dev/icons?i=gamemakerstudio&perline=9)](https://skillicons.dev)
 
 ![image](https://github.com/user-attachments/assets/c57ac76b-0036-429f-9c80-7fa80c142d63)
