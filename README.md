@@ -21,7 +21,7 @@
     
 
 
-### + integrante:
+### ⚪ integrante:
 <table>
   <tr>
      <td align="center">
